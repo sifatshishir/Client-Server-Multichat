@@ -1,0 +1,21 @@
+
+^_^ CLIENT-SERVER MULTICHAT BY SIFAT SHISHIR ^_^ 
+
+INSTRUCTIONS ----->
+
+1. Type 'create User_name Password' to create an account
+2. Type 'login User_name Password' to login your account
+3. Type 'logout' to logout from your account
+4. Type 'joinchatroom Chat_room_name' to join a chatroom
+5. Type 'leavechatroom' to leave from your current chatroom
+6. Type 'showchatroom' to show all available chat rooms
+7. Type 'showuser' to show all logged in user available
+8. Type 'showfriend' to show your friend list
+9. Type 'showrequest' to show your pending friend request
+10. Type 'connect Friend_name' to send friend request to your friend
+11. Type 'yes Friend_name' to accept a friend request
+12. Type 'no Friend_name' to reject a friend request
+13. Type 'message Friend_name Message' to send private message to your friend
+14. Type anything else besides these commands to chat with your friends :)
+
+ENJOY
