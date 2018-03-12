@@ -1,4 +1,4 @@
-# Client-Server-Multichat
+# Multi-Client Server Chat
 Project for network programming lab
 
 # Software used:
